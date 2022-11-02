@@ -1,0 +1,1 @@
+build APP_NAME C:\Users\ZZZ\Desktop\icon.jpg /switch/APP.nro
