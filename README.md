@@ -1,6 +1,6 @@
 # NRO Batch forwader
 
-This is a NodeSJ Script that pick a json with a list of games and convert to .NRO forwarder
+This is a NodeJS Script that reads an .json with a list of games and generate forwaders for retroarch as .NRO to be installed
 Change the games_list.json file
 
 ## Features
