@@ -1,38 +1,5 @@
 [
   {
-    "icon": "front-mission-snes.jpg",
-    "name": "Front Mission (PT-BR)",
-    "publisher": "Square Co.",
-    "titleId": "011d1b20e0de2000",
-    "rom_path": "retroarch/downloads/Super Nintendo/Front Mission PT-BR (J).smc",
-    "nro_path": "retroarch/cores/snes9x_libretro_libnx.nro"
-  },
-
-  {
-    "name": "Ace Combat 3 - Electrosphere (Disc 1)",
-    "icon": "ac3_1.jpg",
-    "titleId": "011a410493f92000",
-    "publisher": "Namco",
-    "rom_path": "retroarch/downloads/Sony Playstation/Ace Combat 3 - Electrosphere (English v2) (Disc 1)/Ace Combat 3 - Electrosphere (English v2) (Disc 1).bin",
-    "nro_path": "retroarch/cores/pcsx_rearmed_libretro_libnx.nro"
-  },
-  {
-    "name": "Ace Combat 3 - Electrosphere (Disc 2)",
-    "titleId": "01109d2e34002000",
-    "icon": "ac3_2.jpg",
-    "publisher": "Namco",
-    "rom_path": "retroarch/downloads/Sony Playstation/Ace Combat 3 - Electrosphere (English v2) (Disc 2)/Ace Combat 3 - Electrosphere (English v2) (Disc 2).bin",
-    "nro_path": "retroarch/cores/pcsx_rearmed_libretro_libnx.nro"
-  },
-  {
-    "name": "Front Mission 3 (PT-BR)",
-    "titleId": "01108d3e34002000",
-    "icon": "fm3.jpg",
-    "publisher": "SquareSoft Co.",
-    "rom_path": "retroarch/downloads/Sony Playstation/Front Mission 3 (1999) Legendado/Front Mission 3 [NTSC-U] [SLUS-01011].bin",
-    "nro_path": "retroarch/cores/pcsx_rearmed_libretro_libnx.nro"
-  },
-  {
     "name": "RetroArch",
     "titleId": "01105d3e34002000",
     "icon": "retroarch.jpg",
